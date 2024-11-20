@@ -6,9 +6,10 @@ Docker image to deploy and run Jenkins agents intended to execute Playwright tes
 
 ## Software and Packages
 
-- Java JRE 11
+- Java JDK 21
 - Jenkins agent (agent.jar)
 - curl git openssh unzip wget zip
+- **Playwright**
 
 ---
 
